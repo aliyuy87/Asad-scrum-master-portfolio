@@ -1,0 +1,23 @@
+Case Study 1: Improving Delivery Predictability by 30%
+Context:
+Teams struggled with inconsistent sprint delivery, rollover, and unclear acceptance criteria.
+Actions:
+Introduced structured backlog refinement with story slicing.
+Coached PO on clarity of commitments and acceptance criteria.
+Implemented velocity trend analysis and realistic forecasting.
+Strengthened Daily Scrum discipline to surface blockers early.
+ Outcome:
+ Delivery predictability improved by 30%
+ Sprint rollover reduced significantly
+ Stakeholders gained better visibility and trust
+Case Study 2: Removing Technical Blockers and Stabilizing iOS Builds
+Context:
+Mobile developers faced slow, unstable iOS build environments.
+Actions:
+Collaborated with engineering to build a reliable AWS EC2 mac2.metal environment.
+Automated daily environment resets to avoid configuration drift.
+Documented workflows and shared best practices with the team.
+Used my technical knowledge to translate issues clearly between Product and DevOps.
+ Outcome:
+ Faster and more stable builds
+ Reduced engineering frustration
