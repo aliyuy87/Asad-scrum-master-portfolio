@@ -1,2 +1,7 @@
 # Asad-scrum-master-portfolio
 Scrum Master Portfolio - Templates, Documentation &amp; Case Studies
+With over five years of experience supporting distributed Agile teams, I’ve developed a strong ability to improve delivery predictability, strengthen team collaboration, and turn business goals into clear sprint outcomes.
+In my current role, I facilitate Scrum ceremonies for multiple development teams and have improved delivery predictability by 30% through better refinement, data-driven coaching, and early risk identification. My approach is rooted in servant leadership — empowering teams to take ownership while ensuring blockers are removed quickly and communication stays transparent.
+What differentiates me is my blend of Agile leadership and technical awareness. I understand CI/CD pipelines, cloud-based build environments, and mobile deployment workflows well enough to speak the same language as developers and help resolve technical blockers efficiently. This has consistently improved alignment between Product, Engineering, and DevOps teams.
+I’m drawn to your organization because of the opportunity to support teams that value continuous improvement and user-focused delivery. I would welcome the opportunity to bring my facilitation strengths, delivery discipline, and collaborative mindset to your environment.
+Thank you for your consideration. I look forward to discussing how I can contribute to your team’s success.
